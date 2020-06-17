@@ -4,5 +4,5 @@ class Circle {
     radius = this.radius;
     pi = Math.PI;
   }
-  
+
 }
